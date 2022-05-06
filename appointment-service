@@ -6,7 +6,7 @@ spring:
     name: appointment-service
   cloud:
     config:
-      enabled: false
+      enabled: true
 
 eureka:
   client:
